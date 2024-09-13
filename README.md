@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Muqaddas Shakeel.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning in GIAIC.
